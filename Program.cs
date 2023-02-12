@@ -1,4 +1,8 @@
-﻿namespace StillAlive
+﻿using System;
+using System.Collections.Generic;
+using System.Threading;
+
+namespace StillAlive
 {
     internal class Program
     {
